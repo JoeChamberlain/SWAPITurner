@@ -1,0 +1,10 @@
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\obj\Debug\SWAPITurner.csprojAssemblyReference.cache
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\obj\Debug\SWAPITurner.csproj.CoreCompileInputs.cache
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\bin\Debug\SWAPITurner.exe.config
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\bin\Debug\SWAPITurner.exe
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\bin\Debug\SWAPITurner.pdb
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\bin\Debug\RestSharp.dll
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\bin\Debug\RestSharp.xml
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\obj\Debug\SWAPITurner.csproj.CopyComplete
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\obj\Debug\SWAPITurner.exe
+C:\Users\Spikke\Documents\Visual Studio 2017\Projects\SWAPITurner\SWAPITurner\obj\Debug\SWAPITurner.pdb
